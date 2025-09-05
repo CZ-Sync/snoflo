@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore targets build artifacts
+_targets/*
+*/out/*
+*/tmp/*
+!*.empty
